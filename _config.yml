@@ -1,0 +1,28 @@
+name: davidtemple
+favicon: null
+layout_spectrum: 0.8775615755002946
+typography_spectrum: 0.5660738097503781
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.05195815092884004
+  lightness: 0.5530569853726774
+  saturation: 0.985025143250823
+  rhythmicContrast: 0.34917294583283365
+purpose: []
