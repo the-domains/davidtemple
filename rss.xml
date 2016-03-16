@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[davidtemple]]></title>
         <description><![CDATA[davidtemple]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/davidtemple/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:34:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 15:30:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidtemple/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It's all about Good Design.</p>]]></description>
+            <link>https://thegrid.ai/davidtemple/its-all-about-good-design/index.html</link>
+            <guid isPermaLink="false">654fb7f4-112d-4cd3-9a87-da61e5038035</guid>
+            <pubDate>Wed, 16 Mar 2016 15:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Grid makes my life easier</p>]]></description>
-            <link>undefinedc1368be2-cad3-4754-b7dc-d33e665ff9f9/index.html</link>
+            <link>https://thegrid.ai/davidtemple/c1368be2-cad3-4754-b7dc-d33e665ff9f9/index.html</link>
             <guid isPermaLink="false">c1368be2-cad3-4754-b7dc-d33e665ff9f9</guid>
             <pubDate>Tue, 08 Mar 2016 03:34:17 GMT</pubDate>
         </item>
