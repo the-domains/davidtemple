@@ -1,29 +1,41 @@
-name: davidtemple
-favicon: null
-layout_spectrum: 0.24939
-typography_spectrum: 0.49958
 title: davidtemple
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.985025143250823
+  brandStrength: 0.05195815092884004
+  rhythmicContrast: 1
   brandColors:
     - '#010101'
     - '#2862c6'
     - '#86bae9'
     - '#f0e0c9'
     - '#618e4e'
-  brandStrength: 0.05195815092884004
   lightness: 0.75
-  saturation: 0.985025143250823
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: davidtemple
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.49958
+layout_spectrum: 0.40681
