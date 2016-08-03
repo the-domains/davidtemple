@@ -1,5 +1,30 @@
-title: davidtemple
-purpose: []
+typography_spectrum: 0.49958
+color:
+  saturation: 0.985025143250823
+  brandStrength: 0.05195815092884004
+  rhythmicContrast: 1
+  brandColors:
+    - '#010101'
+    - '#2862c6'
+    - '#86bae9'
+    - '#f0e0c9'
+    - '#618e4e'
+  lightness: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.40681
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: davidtemple
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.985025143250823
-  brandStrength: 0.05195815092884004
-  rhythmicContrast: 1
-  brandColors:
-    - '#010101'
-    - '#2862c6'
-    - '#86bae9'
-    - '#f0e0c9'
-    - '#618e4e'
-  lightness: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: davidtemple
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.49958
-layout_spectrum: 0.40681
+title: davidtemple
+description: storyteller
+purpose: []
